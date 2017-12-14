@@ -1,4 +1,4 @@
-# Collaborative Annotation for Video Caption
+# Collaborative Annotation for Image Caption
 
 Based on java Socket.
 <br></br>
